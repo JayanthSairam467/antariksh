@@ -1,0 +1,6 @@
+{
+  "name": "Antariksh KWS — Low Latency Edge Voice Activator",
+  "description": "Smart India Hackathon (SIH26172) ISRO Sponsored Project: Low-Latency, Resource-Efficient Keyword Spotting and Edge-to-Cloud Voice Activation on ESP32.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
